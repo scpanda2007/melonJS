@@ -17,6 +17,7 @@
     * @namespace
     */
     var me = {};
+
     // support for AMD (Asynchronous Module Definition) libraries
     if (typeof define === "function" && define.amd) {
         define(function () { return me; });
